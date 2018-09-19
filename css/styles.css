@@ -3,3 +3,26 @@ author: Your name;
 filename: styles.css;
 Date: September 12, 2018;
 */
+
+* {
+    font-style: italic;
+    text-align: center;
+}
+body {
+    background-color: #F5F3CE;
+    font-family: 'Spirax', cursive;
+}
+ul {
+    text-decoration: underline;
+}
+h4 {
+    font-weight: 100;
+}
+ul {
+    display: table;
+    margin: 0 auto;
+}
+ol {
+    text-align: center;
+    list-style-position: inside;
+}
